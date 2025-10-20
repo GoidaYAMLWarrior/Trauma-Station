@@ -68,4 +68,4 @@
       types:
         Heat: 13
   - type: BlurOnCollide
-    BlurTime: 3
+    blurTime: 3
