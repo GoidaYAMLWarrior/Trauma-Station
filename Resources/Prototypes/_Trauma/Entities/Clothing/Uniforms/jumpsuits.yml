@@ -102,3 +102,26 @@
     sprite: _Trauma/Clothing/Uniforms/Jumpsuit/waiter.rsi
   - type: Clothing
     sprite: _Trauma/Clothing/Uniforms/Jumpsuit/waiter.rsi
+
+
+- type: entity
+  parent: ClothingUniformJumpsuitCaptain
+  id: ClothingUniformJumpsuitCaptainMao
+  name: captain's simple jumpsuit
+  description: A plain white button down with blue slacks.
+  components:
+  - type: Sprite
+    sprite: _Trauma/Clothing/Uniforms/Jumpsuit/captain_simple.rsi
+  - type: Clothing
+    sprite: _Trauma/Clothing/Uniforms/Jumpsuit/captain_simple.rsi
+
+- type: entity
+  parent: ClothingUniformJumpsuitCaptain
+  id: ClothingUniformJumpsuitCaptainClassA
+  name: captain's military jumpsuit
+  description: A fancy bluish white button up, sporting a black tie and gold tie clip. Very fancy.
+  components:
+  - type: Sprite
+    sprite: _Trauma/Clothing/Uniforms/Jumpsuit/captain_classA.rsi
+  - type: Clothing
+    sprite: _Trauma/Clothing/Uniforms/Jumpsuit/captain_classA.rsi

@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHeadHatCapcap
+  id: ClothingHeadHatCapMaoCap
+  name: captain's mao cap
+  description: A blue cap made of soft durathread, showcasing a golden star. This cap is stylized after the Mao cap, a solarian design from old Terra.
+  components:
+  - type: Sprite
+    sprite: _Trauma/Clothing/Head/Hats/captain_maocap.rsi
+  - type: Clothing
+    sprite: _Trauma/Clothing/Head/Hats/captain_maocap.rsi

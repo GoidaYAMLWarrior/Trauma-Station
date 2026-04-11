@@ -1,0 +1,21 @@
+- type: entity
+  parent: ClothingOuterArmorCaptainCarapace
+  id: ClothingOuterArmorCaptainMaoSuitJacket
+  name: captain's solarian jacket
+  description: A tough, armored jacket made of robust durathread, designed to provide maximum mobility, flexibility and protection. This jacket is stylized after the Mao suit, a solarian design from old Terra.
+  components:
+  - type: Sprite
+    sprite: _Trauma/Clothing/OuterClothing/Coats/captain_maosuitjacket.rsi
+  - type: Clothing
+    sprite: _Trauma/Clothing/OuterClothing/Coats/captain_maosuitjacket.rsi
+
+- type: entity
+  parent: ClothingOuterArmorCaptainCarapace
+  id: ClothingOuterArmorCaptainClassAJacket
+  name: captain's formal jacket
+  description: A tough, armored jacket made of robust durathread, designed to provide maximum mobility, flexibility and protection. This jacket is stylized after a class A military uniform, would look well with a peaked cap.
+  components:
+  - type: Sprite
+    sprite: _Trauma/Clothing/OuterClothing/Coats/captain_militaryjacket.rsi
+  - type: Clothing
+    sprite: _Trauma/Clothing/OuterClothing/Coats/captain_militaryjacket.rsi

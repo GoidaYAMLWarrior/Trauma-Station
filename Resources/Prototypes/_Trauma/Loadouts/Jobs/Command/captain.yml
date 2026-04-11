@@ -1,0 +1,27 @@
+# Jumpsuit
+- type: loadout
+  id: CaptainJumpsuitMao
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitCaptainMao
+
+- type: loadout
+  id: CaptainJumpsuitClassA
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitCaptainClassA
+
+# Head
+- type: loadout
+  id: CaptainCapMao
+  equipment:
+    head: ClothingHeadHatCapMaoCap
+
+# Outer clothing
+- type: loadout
+  id: CaptainOuterClothingMao
+  equipment:
+    outerClothing: ClothingOuterArmorCaptainMaoSuitJacket
+
+- type: loadout
+  id: CaptainOuterClothingClassA
+  equipment:
+    outerClothing: ClothingOuterArmorCaptainClassAJacket

@@ -146,6 +146,7 @@
   loadouts:
   - CaptainHead
   - CaptainCap
+  - CaptainCapMao # Trauma
 
 - type: loadoutGroup
   id: CaptainJumpsuit
@@ -157,6 +158,10 @@
   - CaptainFormalSkirt
   - CaptainJumpsuitMilitary # goob
   - CaptainSummerShirt # also goob
+  # <Trauma>
+  - CaptainJumpsuitMao
+  - CaptainJumpsuitClassA
+  # </Trauma>
 
 - type: loadoutGroup
   id: CaptainNeck
@@ -184,6 +189,10 @@
   - CaptainOuterClothing
   # - CaptainWintercoat
   - CaptainJacket # Goobstation
+  # <Trauma>
+  - ClothingOuterArmorCaptainMaoSuitJacket
+  - ClothingOuterArmorCaptainClassAJacket
+  # </Trauma>
 
 #- type: loadoutGroup
 #  id: CaptainJobTrinkets
