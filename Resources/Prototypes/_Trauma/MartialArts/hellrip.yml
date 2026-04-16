@@ -12,6 +12,8 @@
     damage:
       types:
         Slash: 10
+  - !type:GrabThrow
+    speed: 20
   levelRequired: 10
 
 - type: combo
