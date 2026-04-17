@@ -12,8 +12,8 @@
     damage:
       types:
         Slash: 10
-  - !type:GrabThrow
-    speed: 20 # once hell ripte is functional, test this and see if its okay
+ # - !type:GrabThrow
+ #   speed: 20 # once hell ripte is functional, test this and see if its okay
   levelRequired: 10
 
 - type: combo
