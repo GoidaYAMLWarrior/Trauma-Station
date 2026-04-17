@@ -26,8 +26,7 @@
   userEffects:
   - !type:PlaySoundEffect
     sound: /Audio/Weapons/boxingpunch2.ogg
-  opponentEffects:  - !type:GrabThrow
-    speed: 5
+  opponentEffects:
   - !type:TakeStaminaDamage
     amount: 12
   - !type:HealthChange
@@ -148,7 +147,7 @@
       types:
         Blunt: 20
   - !type:GrabThrow
-    speed: 10
+    speed: 9
   conditions:
   - !type:StandingCondition
   levelRequired: 54
