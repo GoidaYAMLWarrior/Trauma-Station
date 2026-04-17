@@ -174,7 +174,7 @@
       types:
         Blunt: 13
   levelRequired: 7
-  levelExceeded: 14
+  levelExceeded: 28
 
 - type: combo
   id: ArmstrongMachineGunFist
@@ -197,7 +197,7 @@
     damage:
       types:
         Blunt: 17
-  levelRequired: 14
+  levelRequired: 28
   levelExceeded: 51
 
 - type: combo
