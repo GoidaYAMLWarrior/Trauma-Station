@@ -94,8 +94,6 @@
           amount: 2
         - id: BungoSeeds
           amount: 2
-        # - id: CocaSeeds # Trauma - made minor contraband
-        #  amount: 2
 
 - type: entity
   parent: CrateHydroSecure
