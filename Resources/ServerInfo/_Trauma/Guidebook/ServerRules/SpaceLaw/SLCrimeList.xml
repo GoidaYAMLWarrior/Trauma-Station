@@ -2,7 +2,7 @@
 
   # Crimes
 
-  # I. Criminal Violations Title (Law Section, Code C0X-YY)
+  # I. Criminal Violations Title (Law Section, Code CXX-YY)
 
   ### Criminal violations are those that involve the employee themselves becoming classified as a criminal of some kind through their actions. Criminal violations encompass misdemeanours, felonies and taboo violations, these are the only actual laws that security cadets are expected to learn and remember, and should be prioritized.
 
@@ -22,7 +22,7 @@
   - C01-10: Departmental Impersonation; The act of wearing a departmental uniform whilst not being a part of that department.
   - C01-11: Vandalism; The act of intentionally defacing company property.
   - C01-12: Concealment of Identity; The act of intentionally hiding one's identity through the use of masks, disguises, failing to show company-mandated ID/PDA.
-  - C01-13: Possession of Schedule A Narcotics; The act of possessing prohibited Schedule A narcotics.
+  - C01-13: Personal Possession of Schedule A Narcotics; The act of possessing prohibited Schedule A narcotics that does not exceed 50 units.
 
   ## C§ 02 - Indictable Misdemeanours:
 
@@ -91,7 +91,7 @@
 
   ### Those who engage in taboo violations open themself up to immediate execution by security.
   ### Security team members should strive to capture alive those who violate taboo for study.
-  
+
   ### §T encompasses violations that are considered extremely dangerous, unnatural or otherwise forbidden. In the case of T-01, the chaplain is permitted to enforce this law and is advised to cooperate with security regarding such matters.
 
   - T-01: Magic; The act of practicing magic or usage of a magical item.
@@ -119,7 +119,7 @@
   - D-02: Insubordination; The act of willfully disobeying or refusing to follow instructions from one's superior. In the case of security officers being insubordinate to the Head of Security, insubordination is considered much more severe and additional actions may be taken at the Head of Security's discretion.
   - D-03: Insolence; The act of disrespecting or insulting security or one's superiors. Officers are expected to deliver swift corporal punishment and move on.
 
-  # V. Managerial Violations Act (Law Code M-XX)
+  # V. Managerial Violations Code (Law Code M-XX)
 
   ### §M encompasses violations specifically by management staff.
   ### These violations are decided by the corporate liaison, central command, the captain or a lesser triumvirate of command, and may involve security for enforcement.
@@ -139,21 +139,42 @@
   - F-03: Solicitation; The act of offering services to an employee for spesos or favors outside the scope of their contract.
   - F-04: Poaching; The act of attempting to get a Nanotrasen employee to join their company.
 
-  # VII. Racketeering and Organized Crime Title (Law Section R§)
+  # VII. Racketeering and Organized Crime Title (Law Section, Code RXX-YY)
 
   ## R§ 01 - Racketeering Misdemeanours
 
-  R§ 01 encompasses minor violations related to organized crime and other forms of racketeering, these are incarceratable offenses with a maximum sentece of 4 minutes, and if multiple R§ 01 violations have been committed the sentence may be increased to 6 minutes.
+  R§ 01 encompasses minor violations related to organized crime, corrupt organizations and other forms of racketeering, these are incarceratable offenses with a maximum sentece of 4 minutes, and if multiple R§ 01 violations have been committed the sentence may be increased to 6 minutes.
 
-  - R01-
+  - R01-01: Illegal Gambling; The act of participating in gambling activities that are not sanctioned by the corporation.
+  - R01:02: Money Laundering; The act of concealing the origins of illegaly obtained money through the use of legitimate businesses or financial transactions.
+  - R01-03: Counterfeiting; The act of producing or using imitation currency.
+  - R01-04: Smuggling; The act of illegally importing or exporting contraband into the station.
+  - R01-05: Sale of Contraband; The act of selling items classified as contraband, that does not fall under any other sections or codes.
+  - R01-06: Drug Trafficking; The act of selling Schedule A or B narcotics.
+  - R01-07: Blackmail; The act of threatening to reveal damaging information about another employee unless certain demands are met.
 
   ## R§ 02 - Racketeering Felonies
 
   R§ 02 encompasses serious violations related to organized crime and other forms of racketeering, these are incarceratable offenses with a maximum sentece of 6 minutes.
 
+  - R02-01: Extortion; The act of using coercion, threats and/or intimidation to obtain money, property, services or other goods from another employee.
+  - R02-02: Loan Sharking; The act of offering loans or goods at extremely high interest rates, and using threats or violence to collect debts.
+  - R02-03: Weapon Trafficking; The act of selling firearms or other prohibited weapons.
+  - R02-04: Production of Prohibited Weaponry with intent to supply/sell; The act of manufacturing firearms or other prohibited weapons for commercial gain.
+  - R02-05: Production of Narcotics with intent to supply/sell; The act of producing Schedule A or B substances for commercial gain.
+  - R02-06: Possession of a Traffickable Quantity of Narcotics; The act of possessing Schedule A or B substances in a quantity that exceeds 50 units.
+  - R02-07: Operation of an Illegal Business; The act of operating an illegal business, this includes but is not limited to: illegal gambling rings, fight clubs, drug dens, black market shops and other illicit commercial enterprises.
+  - R02-08: Corruption of an Employee; The act of bribing, blackmailing or otherwise corrupting a non-managerial employee to gain illicit advantages.
+
   ## R§ 03 - Racketeering Terminations
 
   R§ 03 encompasses serious violations related to organized crime and other forms of racketeering, that specifically void the rights and contract of the employee and result in the dispoable classification.
+
+  - R03-01: Sapient Trafficking; The act of trading or otherwise exploiting other sapient employees for illegal purposes. This includes hypnosis implants or other forms of hypnotic control.
+  - R03-02: Contract Killing; The act of killing someone for monetary gain.
+  - R03-03: Possession of a Commercial Quantity of Narcotics; The act of possessing Schedule A or B substances in a quantity that exceeds 200 units.
+  - R03-04: Operation of a Criminal Enterprise; The act of operating a criminal enterprise such as a gang, mafia, triad, yakuza or other criminal organization.
+  - R03-05: Corruption of a Managerial Official; The act of bribing, blackmailing or otherwise corrupting a member of command to gain illicit advantages.
 
   # VIII. Parole Violations (Law Code PA-XX)
 
