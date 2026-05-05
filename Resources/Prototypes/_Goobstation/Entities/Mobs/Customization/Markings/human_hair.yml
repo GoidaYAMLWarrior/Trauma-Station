@@ -41,20 +41,6 @@
       state: flatTwistsUpdo
 
 - type: marking
-  id: HumanHairFloorlengthBraid
-  bodyPart: Hair
-  sprites:
-    - sprite: _Goobstation/Mobs/Customization/human_hair.rsi
-      state: floorlengthBraid
-
-- type: marking
-  id: HumanHairFloorlengthWavy
-  bodyPart: Hair
-  sprites:
-    - sprite: _Goobstation/Mobs/Customization/human_hair.rsi
-      state: floorlengthWavy
-
-- type: marking
   id: HumanHairFrontBraidsLong
   bodyPart: Hair
   sprites:
