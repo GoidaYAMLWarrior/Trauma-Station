@@ -315,12 +315,12 @@
   sprites:
     - sprite: Mobs/Customization/human_hair.rsi
       state: classiccornrows2
-- type: marking
-  id: HumanHairClassicFloorlengthBedhead
-  bodyPart: Hair
-  sprites:
-    - sprite: Mobs/Customization/human_hair.rsi
-      state: classicfloorlength_bedhead
+# - type: marking
+#  id: HumanHairClassicFloorlengthBedhead
+#  bodyPart: Hair
+#  sprites:
+#    - sprite: Mobs/Customization/human_hair.rsi
+#      state: classicfloorlength_bedhead
 - type: marking
   id: HumanHairClassicModern
   bodyPart: Hair
