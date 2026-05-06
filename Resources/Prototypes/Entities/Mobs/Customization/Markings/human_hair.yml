@@ -171,12 +171,12 @@
   sprites:
     - sprite: Mobs/Customization/human_hair.rsi
       state: bowlcut2
-- type: marking
-  id: HumanHairBraid
-  bodyPart: Hair
-  sprites:
-    - sprite: Mobs/Customization/human_hair.rsi
-      state: braid
+# - type: marking
+#  id: HumanHairBraid
+#  bodyPart: Hair
+#  sprites:
+#    - sprite: Mobs/Customization/human_hair.rsi
+#      state: braid
 - type: marking
   id: HumanHairBraided
   bodyPart: Hair
