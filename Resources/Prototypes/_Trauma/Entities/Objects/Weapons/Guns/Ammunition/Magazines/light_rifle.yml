@@ -6,7 +6,7 @@
   components:
   - type: Tag
     tags:
-      - MagazineLightRifle20rd
+      - MagazineLightRifle
   - type: BallisticAmmoProvider
     mayTransfer: true
     whitelist:

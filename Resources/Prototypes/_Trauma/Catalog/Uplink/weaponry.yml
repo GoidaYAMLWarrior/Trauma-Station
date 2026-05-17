@@ -30,6 +30,6 @@
   description: uplink-rifle-FAL-description
   productEntity: WeaponRifleFAL
   cost:
-    Telecrsytal: 40
+    Telecrystal: 45
   categories:
   - UplinkWeaponry

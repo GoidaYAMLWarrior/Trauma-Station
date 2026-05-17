@@ -2,7 +2,7 @@
   name: rifle-FAL-name
   parent: [BaseWeaponRifle, BaseSyndicateContraband]
   id: WeaponRifleFAL
-  description: rifle-FAL-description
+  description: rifle-FAL-desc
   components:
   - type: Sprite
     sprite: _Trauma/Objects/Weapons/Guns/Rifles/fn_fal.rsi
@@ -32,7 +32,7 @@
         priority: 2
         whitelist:
           tags:
-            - MagazineLightRifle20rd
+            - MagazineLightRifle
         whitelistFailPopup: gun-magazine-whitelist-fail
       gun_chamber:
         name: Chamber
