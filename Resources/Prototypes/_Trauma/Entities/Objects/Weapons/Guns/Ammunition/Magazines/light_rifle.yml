@@ -47,7 +47,7 @@
 - type: entity
   parent: BaseMagazineLightRifle20rd
   id: MagazineLightRiflePractice20rd
-  name: "straight magazine (.30 rifle)"
+  name: "straight magazine (.30 rifle practice)"
   description: Straight 20-round double stack magazine for combat rifles. Intended to hold harmless practice ammunition.
   components:
   - type: BallisticAmmoProvider
