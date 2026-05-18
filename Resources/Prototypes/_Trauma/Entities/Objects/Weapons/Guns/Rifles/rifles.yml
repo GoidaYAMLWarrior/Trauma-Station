@@ -1,5 +1,4 @@
 - type: entity
-  name:
   parent: [BaseWeaponRifle, BaseSyndicateContraband]
   id: WeaponRifleFAL
   name: Saive Automatique
