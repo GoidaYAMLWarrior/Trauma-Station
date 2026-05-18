@@ -1,6 +1,9 @@
 - type: entity
+  name:
   parent: [BaseWeaponRifle, BaseSyndicateContraband]
   id: WeaponRifleFAL
+  name: Saive Automatique
+  description: A 20th century rifle from Old Terra, due to its adoption by a lot of capitalist countries it was nicknamed "the right arm of the free world"
   components:
   - type: Sprite
     sprite: _Trauma/Objects/Weapons/Guns/Rifles/fn_fal.rsi
